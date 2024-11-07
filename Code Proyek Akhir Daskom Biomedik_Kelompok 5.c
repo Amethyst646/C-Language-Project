@@ -1,8 +1,8 @@
 /* FINAL PROJECT SYSTEM RESERVATION CINEMA'S TICKET
-   Brigitta Vanessa Jolly - 2006521925
-   Fatimah Kayla Kameela - 2006525305
-   Adila Shofa Kamila - 2006532102
-   Anzelya Laurentzya Putri -  2006529354 */
+   B.V.J. - 2006xxxxxx
+   Fatimah Kayla Kameela - 2006xxxxxx
+   A.S.K. - 2006xxxxxx
+   A.L.P. -  2006xxxxxx */
 
 #include <stdio.h>
 #include <stdlib.h>
